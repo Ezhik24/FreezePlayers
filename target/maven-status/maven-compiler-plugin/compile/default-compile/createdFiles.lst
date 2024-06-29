@@ -1,0 +1,14 @@
+org\ezhik\freezeplayers\InvMagic.class
+org\ezhik\freezeplayers\FreezePlayers.class
+org\ezhik\freezeplayers\TptoEvent.class
+org\ezhik\freezeplayers\commands\InvClearCMD.class
+org\ezhik\freezeplayers\commands\UfrCMD.class
+org\ezhik\freezeplayers\commands\SeteventlocCMD.class
+org\ezhik\freezeplayers\Freezer.class
+org\ezhik\freezeplayers\commands\InvReturnCMD.class
+org\ezhik\freezeplayers\commands\OffkillCMD.class
+org\ezhik\freezeplayers\commands\Damexec.class
+org\ezhik\freezeplayers\commands\OnkillCMD.class
+org\ezhik\freezeplayers\commands\TptueventCMD.class
+org\ezhik\freezeplayers\ReturnableInv.class
+org\ezhik\freezeplayers\commands\FrCMD.class

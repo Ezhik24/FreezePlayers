@@ -1,0 +1,36 @@
+name: FreezePlayers
+version: '${project.version}'
+main: org.ezhik.freezeplayers.FreezePlayers
+api-version: '1.18'
+Author: Ezhik
+
+commands:
+    freeze:
+        description: Freeze players
+        usage: /freeze <player>
+        aliases: f
+    unfreeze:
+        description: Unfreeze players
+        usage: /unfreeze <player>
+        aliases: uf
+    invclear:
+        description: Clear inventory
+        usage: /invclear <player>
+    invreturn:
+        description: Return inventory
+        usage: /invreturn <player>
+    setiventlocation:
+        description: "Устанавливает место ивента"
+        usage: /setiventlocation
+        permission: freezeplayers.setiventlocation
+    tptuevent:
+        description: "Телепортирует игрока в место ивента"
+        usage: /tptuevent
+    offkill:
+        description: "Отключает убийство"
+        usage: /offkill
+        permission: freezeplayers.offkill
+    onkill:
+        description: "Включает убийство"
+        usage: /onkill
+        permission: freezeplayers.onkill
